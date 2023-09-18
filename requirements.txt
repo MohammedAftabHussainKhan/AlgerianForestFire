@@ -1,1 +1,4 @@
 Flask
+Pandas
+Numpy
+Scikit-Learn
